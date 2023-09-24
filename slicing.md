@@ -45,4 +45,4 @@ remove_chars("pynative", 2)
 **Note:**
 
 - The input string can contain letters (both uppercase and lowercase), digits, and special characters.
-- Ensure that `n` is within the valid range, i.e., 0 <= n < len(s).
+- Ensure that `n` is within the valid range, i.e., 0 <= n < len(s)
